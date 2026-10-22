@@ -1,5 +1,5 @@
 // ===== CONFIG — replace before going live =====
-const WALLET_ADDRESS='TPLACEHOLDER_REPLACE_ME'; // PLACEHOLDER: your TRON (TRC20) USDT receiving address
+const WALLET_ADDRESS='TVqBCAjUnqjgyTYyoWGCeGoi1mKU84bcV8'; // PLACEHOLDER: your TRON (TRC20) USDT receiving address
 const STORE_EMAIL='songxiyin37@gmail.com';       // PLACEHOLDER store email
 const PRICES=[18,22,25,39];                      // PLACEHOLDER prices in USDT, same order as P in app.js
 // ==============================================
